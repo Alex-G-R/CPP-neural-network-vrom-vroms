@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/dev/Racing/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Racing.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\Racing.dir\\src\\main.cpp.obj -c C:\\dev\\Racing\\src\\main.cpp",
+  "file": "C:/dev/Racing/src/main.cpp",
+  "output": "CMakeFiles/Racing.dir/src/main.cpp.obj"
+}
+]

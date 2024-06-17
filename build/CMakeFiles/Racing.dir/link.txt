@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Racing.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\Racing.dir/objects.a @CMakeFiles\Racing.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Racing.dir/objects.a -Wl,--no-whole-archive -o Racing.exe -Wl,--out-implib,libRacing.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Racing.dir\linkLibs.rsp
